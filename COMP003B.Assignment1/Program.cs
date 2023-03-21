@@ -32,6 +32,12 @@ namespace COMP003B.Assignment1
 
             app.Run();
             // new comment
+            // single-line comment
+            /*
+             * multi-line comment
+             * example
+             * 
+             */
         }
     }
 }
